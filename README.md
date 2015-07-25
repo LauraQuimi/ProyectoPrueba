@@ -1,2 +1,0 @@
-# ProyectoPrueba
-Proyecto de Pruebas
