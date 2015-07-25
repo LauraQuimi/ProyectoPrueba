@@ -1,4 +1,4 @@
 <?php
-    echo "Hola Mmundo G ";
+    echo "Hola Mmundo como estan ";
     phpinfo();
 ?>
